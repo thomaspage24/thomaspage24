@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ## idk 
-[My Website] (https://thomaspage.vercel.app/)
+[My Website](https://thomaspage.vercel.app/)
