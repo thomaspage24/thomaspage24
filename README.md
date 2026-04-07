@@ -15,6 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# idk 
-**what to add here**
+## idk 
 [My Website] (https://thomaspage.vercel.app/)
