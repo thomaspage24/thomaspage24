@@ -1,2 +1,2 @@
 ## hiya :)
-[My Website](https://thomaspage.vercel.app/)
+[My Website](https://thomaspage.dev/)
